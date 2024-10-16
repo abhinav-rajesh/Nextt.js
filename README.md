@@ -36,15 +36,3 @@ Users can see stories of people or projects they helped fund
 ## Team members
 1. Abhinav Rajeh
 2. Aneeja j
-## Link to product walkthrough
-[link to video](Link Here)
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
->>>>>>> cefe85b6ac04f53cb0246d1b4398936190f70260
-## Libraries used
-Library Name - Version
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
